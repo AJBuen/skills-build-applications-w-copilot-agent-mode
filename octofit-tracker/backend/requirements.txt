@@ -1,0 +1,5 @@
+# Backend requirements for OctoFit Tracker
+
+django>=4.2
+pymongo
+djangorestframework
